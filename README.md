@@ -1,8 +1,8 @@
 # Portfolio
 
-**You have one month to create your professional Portfolio and work on your daily or weekly exercises and projects!**
+**This Portfolio has been created to showcase all of my work through Bellevue’s Data Science Program. Presented below are 10 Projects that represent my skills. All images are linked to each project’s Github Page.**
 
-![Dream Job](Dream_job_next_exit.jpg)
+#![Dream Job](Dream_job_next_exit.jpg)
 
 ## Project 1 - Fake News Detection
 
