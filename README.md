@@ -6,7 +6,7 @@
 
 Fake news for various business and political purposes has been appearing in large numbers and extensive in the online world. Identify the fake news at right time and improving the trustworthiness of information in online social networks. Using different principles and methodologies to detect the fake news in the dataset is the aim of this project. Also addresses the unknown challenges of fake news and diverse connections among news articles, and subjects. 
 
-## Project 2 - House price prediction
+## Project 2 - House Price Analysis
 
 Housing market trends and forecasts shows an extraordinarily strong real estate market, with strong housing demand in every part of the country. The improved economy and millennials entering their peak home buying years are fueling a residential housing boom. Along with this, low mortgage rates, combined with an increase in working from home because of the pandemic, have spurred a surge in housing demand, particularly in lower-density suburbs. In 2020, more existing homes were sold than in any other years since 2006.
 
