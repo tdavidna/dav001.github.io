@@ -1,1 +1,1 @@
-Hi, I'm David
+## DSC 680 Project Portfolio: Manuel Duran
