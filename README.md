@@ -1,6 +1,6 @@
 # Portfolio
 
-**This Portfolio has been created to showcase all of my work through Bellevue’s Data Science Program. Presented below are 10 Projects that represent my skills. All images are linked to each project’s Github Page.**
+**Created this portfolio to showcase all of my projects which i have worked recently. Following are the list of projects and linked to each project’s for more details using Github Page / other sources.**
 
 ## Project 1 - [Fake News Detection](https://github.com/tdavidna/DSC680/blob/main/Fake_News_Detection.ipynb)
 
