@@ -2,7 +2,7 @@
 
 **This Portfolio has been created to showcase all of my work through Bellevue’s Data Science Program. Presented below are 10 Projects that represent my skills. All images are linked to each project’s Github Page.**
 
-## Project 1 - Fake News Detection
+## Project 1 - [Fake News Detection](https://github.com/tdavidna/DSC680/blob/main/Fake_News_Detection.ipynb)
 
 Fake news for various business and political purposes has been appearing in large numbers and extensive in the online world. Identify the fake news at right time and improving the trustworthiness of information in online social networks. Using different principles and methodologies to detect the fake news in the dataset is the aim of this project. Also addresses the unknown challenges of fake news and diverse connections among news articles, and subjects. 
 
