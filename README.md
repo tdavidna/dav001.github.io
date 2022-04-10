@@ -4,8 +4,7 @@
 
 ## Project 1 - Fake News Detection
 
-First retrieve your previous work
-https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World
+Fake news for various business and political purposes has been appearing in large numbers and extensive in the online world. Identify the fake news at right time and improving the trustworthiness of information in online social networks. Using different principles and methodologies to detect the fake news in the dataset is the aim of this project. Also addresses the unknown challenges of fake news and diverse connections among news articles, and subjects. 
 
 ## Project 2 - House price prediction
 
@@ -13,12 +12,9 @@ Housing market trends and forecasts shows an extraordinarily strong real estate 
 
 ## Project 3 - Air Travel Safety
 
-Upload your website with GitHub page, more info here:
-https://pages.github.com/
+Driving is more dangerous, with more than 5 million accidents compared to 20 accidents in flying. As per the comparison motor vehicle accident to be 1 in 98 for a lifetime. For air and space transport, the odds were 1 in 7K for a lifetime. Due to perception, it may feel that flying is more dangerous, but the fact is different. Another reason is plane crashes are catastrophic like killing more people at once. Other accidents happen every day and spread the loss over time, making their combined effects less noticeable.
 
 ## Project 4 - Stock Price Prediction
 
-* http://www.awwwards.com/websites/portfolio/
-* https://onepagelove.com/gallery/portfolio/
-* http://jgthms.com/web-design-in-4-minutes/
+Prediction of stock market performance is one of the most difficult things to do. There are so many factors involved in the prediction – physical factors vs. physhological, rational and irrational behavior, etc. All these aspects combine to make share prices instable and very difficult to predict with a high degree of accuracy. Stock price forecast is the most crucial component for investors and companies to predict future revenues and any possible negative earnings. The essence of the stock market investments involves high risk and high profits; thus, it is a source of attraction to many businesses, investors and economists. 
 
