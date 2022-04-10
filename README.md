@@ -1,26 +1,44 @@
-#### A HTML webpage for my portfolio.
+# Portfolio
 
-#### To view online [click here!](https://CristinaPlesa.github.io/portfolio-landing-page/)
+**You have one month to create your professional Portfolio and work on your daily or weekly exercises and projects!**
 
-#### By Cristina Plesa
+![Dream Job](Dream_job_next_exit.jpg)
 
-## Technologies Used
-@@ -19,10 +21,16 @@ A porfolio webpage that includes a list of Github projects and information about
-* Navigate to the top level of the directory.
-* Open index.html in your browser.
+## Prerequisites
 
-* To view online go to: https://cristinaplesa.github.io/portfolio-landing-page/
-## Known Bugs
+First retrieve your previous work
+https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World
 
-* Styling layout doesn't adjust well for smaller windows.
+## Checklist
 
-## License
+* Link your **GitHub** account https://github.com/settings/profile (take the time to fill out your profile information)
+* Link your **LinkedIn** account
+* Link your **Stack Overflow Carrers** account (if you do not have one, create it on http://careers.stackoverflow.com/)
 
-MIT
+## Hosting
 
-Copyright (c) 2021 Cristina Plesa
-Copyright (c) 2021 Cristina Plesa
+Upload your website with GitHub page, more info here:
+https://pages.github.com/
 
-## Contact Information
+## Inspirations
 
-Add a new issue to this repo to contact me about any issues.
+* http://www.awwwards.com/websites/portfolio/
+* https://onepagelove.com/gallery/portfolio/
+* http://jgthms.com/web-design-in-4-minutes/
+
+## Montreuil - Promo #5
+
+* https://aboualnaser.github.io
+* https://ahmedsalem1210.github.io (username aren't professional)
+* https://alizaidi1.github.io (username aren't professional)
+* https://amare16.github.io (username aren't professional)
+* https://beriva.github.io
+* https://bmiande.github.io
+* https://elmardi2.github.io (username aren't professional
+* https://kalaaji.github.io
+* https://omar90sh.github.io (username aren't professional)
+* https://sabachadi.github.io
+* https://sakhradam.github.io
+* https://solomongamid.github.io
+* https://tarek666.github.io (username aren't professional, but cool)
+* https://thamoui.github.io
